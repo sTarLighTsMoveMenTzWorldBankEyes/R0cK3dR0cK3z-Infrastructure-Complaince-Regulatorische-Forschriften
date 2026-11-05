@@ -1,0 +1,345 @@
+{
+  "EU": {
+    "name": "Europäische Union",
+    "domain_zone": ".eu",
+    "registry": "https://eurid.eu/",
+    "competent_authorities": {
+      "eIDAS": "https://digital-strategy.ec.europa.eu/en/policies/eu-trusted-lists",
+      "Finanzrecht": "https://finance.ec.europa.eu/regulation-and-supervision/financial-services-legislation/overview-financial-services-legislation_en",
+      "AI Act": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai"
+    },
+    "national_compliance_topics": [
+      "GDPR",
+      "EU_AI_ACT",
+      "DORA",
+      "NIS2",
+      "EIDAS",
+      "DSA",
+      "DMA",
+      "MICA",
+      "PSD2",
+      "EU_FOI"
+    ],
+    "notes": "Gemeinschaftsrecht: Anwendbarkeit und nationaler Vollzug gesondert prüfen."
+  },
+  "DE": {
+    "name": "Deutschland",
+    "domain_zone": ".de",
+    "registry": "https://www.denic.de/",
+    "competent_authorities": {
+      "Datenschutz": "https://www.bfdi.bund.de/",
+      "Cyber / KRITIS": "https://www.bsi.bund.de/",
+      "Finanzaufsicht": "https://www.bafin.de/"
+    },
+    "national_compliance_topics": [
+      "EU_BASE",
+      "BDSG",
+      "BSI_KRITIS",
+      "BAFIN"
+    ],
+    "notes": "NIS2-/KRITIS-Relevanz hängt von Einrichtung, Sektor, Schwellenwert und aktuellem Recht ab."
+  },
+  "IE": {
+    "name": "Irland",
+    "domain_zone": ".ie",
+    "registry": "https://www.weare.ie/",
+    "competent_authorities": {
+      "Datenschutz": "https://www.dataprotection.ie/",
+      "Finanzaufsicht": "https://www.centralbank.ie/",
+      "Cyber": "https://www.ncsc.gov.ie/"
+    },
+    "national_compliance_topics": [
+      "EU_BASE",
+      "IE_DATA_PROTECTION",
+      "IE_CBI"
+    ],
+    "notes": "Nationale Umsetzung von EU-Richtlinien gesondert prüfen."
+  },
+  "ES": {
+    "name": "Spanien",
+    "domain_zone": ".es",
+    "registry": "https://www.dominios.es/",
+    "competent_authorities": {
+      "Datenschutz": "https://www.aepd.es/",
+      "Banken": "https://www.bde.es/",
+      "Kapitalmärkte": "https://www.cnmv.es/",
+      "Cyber": "https://www.incibe.es/"
+    },
+    "national_compliance_topics": [
+      "EU_BASE",
+      "ES_LOPDGDD",
+      "ES_FINANCE"
+    ],
+    "notes": "gob.es ist nicht frei registrierbar."
+  },
+  "IT": {
+    "name": "Italien",
+    "domain_zone": ".it",
+    "registry": "https://www.nic.it/",
+    "competent_authorities": {
+      "Datenschutz": "https://www.garanteprivacy.it/",
+      "Banken": "https://www.bancaditalia.it/",
+      "Kapitalmärkte": "https://www.consob.it/",
+      "Cyber": "https://www.acn.gov.it/"
+    },
+    "national_compliance_topics": [
+      "EU_BASE",
+      "IT_PRIVACY",
+      "IT_FINANCE"
+    ],
+    "notes": "gov.it ist institutionell beschränkt."
+  },
+  "FR": {
+    "name": "Frankreich",
+    "domain_zone": ".fr",
+    "registry": "https://www.afnic.fr/",
+    "competent_authorities": {
+      "Datenschutz": "https://www.cnil.fr/",
+      "Bankaufsicht": "https://acpr.banque-france.fr/",
+      "Kapitalmärkte": "https://www.amf-france.org/",
+      "Cyber": "https://cyber.gouv.fr/"
+    },
+    "national_compliance_topics": [
+      "EU_BASE",
+      "FR_PRIVACY",
+      "FR_FINANCE"
+    ],
+    "notes": "Nationale Resilienz- und Sektoranwendung prüfen."
+  },
+  "BE": {
+    "name": "Belgien / Brüssel",
+    "domain_zone": ".be",
+    "registry": "https://www.dnsbelgium.be/",
+    "competent_authorities": {
+      "Datenschutz": "https://www.autoriteprotectiondonnees.be/",
+      "Banken": "https://www.nbb.be/",
+      "Finanzmärkte": "https://www.fsma.be/",
+      "Cyber": "https://ccb.belgium.be/"
+    },
+    "national_compliance_topics": [
+      "EU_BASE",
+      "BE_PRIVACY",
+      "BE_FINANCE"
+    ],
+    "notes": "Brüssel ist kein eigener nationaler Rechtsraum; EU-Institutionen besitzen zusätzliche Sonderregeln."
+  },
+  "LU": {
+    "name": "Luxemburg",
+    "domain_zone": ".lu",
+    "registry": "https://www.dns.lu/",
+    "competent_authorities": {
+      "Datenschutz": "https://cnpd.public.lu/",
+      "Finanzaufsicht": "https://www.cssf.lu/",
+      "Versicherung": "https://www.caa.lu/"
+    },
+    "national_compliance_topics": [
+      "EU_BASE",
+      "LU_PRIVACY",
+      "LU_FINANCE"
+    ],
+    "notes": "CSSF-Regeln können ICT-Auslagerung und spezialisierte Finanzakteure betreffen."
+  },
+  "CH": {
+    "name": "Schweiz",
+    "domain_zone": ".ch",
+    "registry": "https://www.nic.ch/",
+    "competent_authorities": {
+      "Datenschutz": "https://www.edoeb.admin.ch/",
+      "Finanzaufsicht": "https://www.finma.ch/",
+      "Cyber": "https://www.ncsc.admin.ch/"
+    },
+    "national_compliance_topics": [
+      "CH_FADP",
+      "CH_FINMA",
+      "CH_CYBER"
+    ],
+    "notes": "Schweiz ist kein EU-Mitglied; EU-Recht kann bei grenzüberschreitender Tätigkeit dennoch einschlägig sein."
+  },
+  "PT": {
+    "name": "Portugal",
+    "domain_zone": ".pt",
+    "registry": "https://www.pt.pt/",
+    "competent_authorities": {
+      "Datenschutz": "https://www.cnpd.pt/",
+      "Bankaufsicht": "https://www.bportugal.pt/",
+      "Kapitalmarkt": "https://www.cmvm.pt/",
+      "Cyber": "https://www.cncs.gov.pt/"
+    },
+    "national_compliance_topics": [
+      "EU_BASE",
+      "PT_PRIVACY",
+      "PT_FINANCE"
+    ],
+    "notes": "Einzelne nationale Pflichten und aktuelle Umsetzungsstände müssen fallbezogen verifiziert werden."
+  },
+  "SE": {
+    "name": "Schweden",
+    "domain_zone": ".se",
+    "registry": "https://internetstiftelsen.se/",
+    "competent_authorities": {
+      "Datenschutz": "https://www.imy.se/",
+      "Finanzaufsicht": "https://www.fi.se/",
+      "Cyber": "https://www.msb.se/"
+    },
+    "national_compliance_topics": [
+      "EU_BASE",
+      "SE_PRIVACY",
+      "SE_FINANCE"
+    ],
+    "notes": "Einzelne nationale Pflichten und aktuelle Umsetzungsstände müssen fallbezogen verifiziert werden."
+  },
+  "FI": {
+    "name": "Finnland",
+    "domain_zone": ".fi",
+    "registry": "https://www.traficom.fi/en/communications/fi-domains",
+    "competent_authorities": {
+      "Datenschutz": "https://tietosuoja.fi/en/home",
+      "Finanzaufsicht": "https://www.finanssivalvonta.fi/en/",
+      "Cyber": "https://www.kyberturvallisuuskeskus.fi/en"
+    },
+    "national_compliance_topics": [
+      "EU_BASE",
+      "FI_PRIVACY",
+      "FI_FINANCE"
+    ],
+    "notes": "Einzelne nationale Pflichten und aktuelle Umsetzungsstände müssen fallbezogen verifiziert werden."
+  },
+  "DK": {
+    "name": "Dänemark",
+    "domain_zone": ".dk",
+    "registry": "https://punktum.dk/en/",
+    "competent_authorities": {
+      "Datenschutz": "https://www.datatilsynet.dk/",
+      "Finanzaufsicht": "https://www.finanstilsynet.dk/",
+      "Cyber": "https://www.sikkerdigital.dk/"
+    },
+    "national_compliance_topics": [
+      "EU_BASE",
+      "DK_PRIVACY",
+      "DK_FINANCE"
+    ],
+    "notes": "Einzelne nationale Pflichten und aktuelle Umsetzungsstände müssen fallbezogen verifiziert werden."
+  },
+  "US": {
+    "name": "Vereinigte Staaten",
+    "domain_zone": ".gov (eingeschränkt); .com/.org/.us nach Registry-Regeln",
+    "registry": "https://get.gov/domains/eligibility/",
+    "competent_authorities": {
+      "Bundesrecht": "https://uscode.house.gov/",
+      "Finanzmarkt": "https://www.sec.gov/",
+      "Finanzbehörden-Registrierung": "https://sam.gov/",
+      "Cyber": "https://www.cisa.gov/"
+    },
+    "national_compliance_topics": [
+      "US_PRIVACY_SECTOR",
+      "US_GLBA",
+      "US_FOIA",
+      "US_SUNSHINE",
+      "US_FEDRAMP",
+      "US_STATE_LAWS"
+    ],
+    "notes": ".gov für berechtigte US-Behörden; .mil für autorisierte DoD-Einrichtungen. 50 Bundesstaaten bedürfen separater Prüfung."
+  },
+  "BR": {
+    "name": "Brasilien",
+    "domain_zone": ".br",
+    "registry": "https://registro.br/",
+    "competent_authorities": {
+      "Datenschutz": "https://www.gov.br/anpd/pt-br",
+      "Bankaufsicht": "https://www.bcb.gov.br/",
+      "Kapitalmärkte": "https://www.gov.br/cvm/pt-br"
+    },
+    "national_compliance_topics": [
+      "BR_LGPD",
+      "BR_FINANCE"
+    ],
+    "notes": "LGPD gilt je nach konkreter Datenverarbeitung und räumlichem Bezug."
+  },
+  "SG": {
+    "name": "Singapur",
+    "domain_zone": ".sg",
+    "registry": "https://www.sgnic.sg/",
+    "competent_authorities": {
+      "Datenschutz": "https://www.pdpc.gov.sg/",
+      "Finanzaufsicht": "https://www.mas.gov.sg/",
+      "Cyber": "https://www.csa.gov.sg/"
+    },
+    "national_compliance_topics": [
+      "SG_PDPA",
+      "SG_MAS",
+      "SG_CYBER"
+    ],
+    "notes": "MAS-Vorschriften sind vom Typ der finanziellen Lizenz und Tätigkeit abhängig."
+  },
+  "JP": {
+    "name": "Japan",
+    "domain_zone": ".jp",
+    "registry": "https://jprs.co.jp/en/",
+    "competent_authorities": {
+      "Datenschutz": "https://www.ppc.go.jp/en/",
+      "Finanzaufsicht": "https://www.fsa.go.jp/en/"
+    },
+    "national_compliance_topics": [
+      "JP_APPI",
+      "JP_FINANCE"
+    ],
+    "notes": "Einzelne nationale Pflichten und aktuelle Umsetzungsstände müssen fallbezogen verifiziert werden."
+  },
+  "IN": {
+    "name": "Indien",
+    "domain_zone": ".in",
+    "registry": "https://registry.in/",
+    "competent_authorities": {
+      "Datenschutz / Digitalpolitik": "https://www.meity.gov.in/",
+      "Banken": "https://www.rbi.org.in/",
+      "Cyber": "https://www.cert-in.org.in/"
+    },
+    "national_compliance_topics": [
+      "IN_DPDP",
+      "IN_FINANCE",
+      "IN_CYBER"
+    ],
+    "notes": "Inkrafttreten einzelner DPDP-Pflichten gesondert prüfen."
+  },
+  "KR": {
+    "name": "Südkorea",
+    "domain_zone": ".kr",
+    "registry": "https://www.kisa.or.kr/ENG/",
+    "competent_authorities": {
+      "Datenschutz": "https://www.pipc.go.kr/eng/",
+      "Finanzaufsicht": "https://www.fsc.go.kr/eng/"
+    },
+    "national_compliance_topics": [
+      "KR_PIPA",
+      "KR_FINANCE"
+    ],
+    "notes": "Einzelne nationale Pflichten und aktuelle Umsetzungsstände müssen fallbezogen verifiziert werden."
+  },
+  "HK": {
+    "name": "Hongkong",
+    "domain_zone": ".hk",
+    "registry": "https://www.hkirc.hk/",
+    "competent_authorities": {
+      "Datenschutz": "https://www.pcpd.org.hk/",
+      "Bankaufsicht": "https://www.hkma.gov.hk/"
+    },
+    "national_compliance_topics": [
+      "HK_PDPO",
+      "HK_FINANCE"
+    ],
+    "notes": "Eigenständiger regulatorischer Rahmen; nicht pauschal mit China gleichsetzen."
+  },
+  "NATO": {
+    "name": "NATO",
+    "domain_zone": "nato.int",
+    "registry": "https://www.nato.int/",
+    "competent_authorities": {
+      "Beschaffung": "https://www.ncia.nato.int/",
+      "Institution": "https://www.nato.int/"
+    },
+    "national_compliance_topics": [
+      "NATO_INSTITUTIONAL"
+    ],
+    "notes": "Keine öffentliche NATO-Domain-Registrierung; Teilnahme nur über ausdrücklich autorisierte Kanäle."
+  }
+}

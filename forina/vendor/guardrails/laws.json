@@ -1,0 +1,344 @@
+{
+  "GDPR": {
+    "title": "DSGVO / GDPR",
+    "category": "privacy",
+    "official_source": "https://eur-lex.europa.eu/eli/reg/2016/679/oj",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "EU_AI_ACT": {
+    "title": "EU AI Act",
+    "category": "ai",
+    "official_source": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "NIS2": {
+    "title": "NIS2 – nationale Umsetzung",
+    "category": "critical",
+    "official_source": "https://digital-strategy.ec.europa.eu/en/faqs/directive-measures-high-common-level-cybersecurity-across-union-nis2-directive-faqs",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "DORA": {
+    "title": "DORA – digitale operationelle Resilienz",
+    "category": "finance",
+    "official_source": "https://eur-lex.europa.eu/eli/reg/2022/2554/oj",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "EIDAS": {
+    "title": "eIDAS / elektronische Vertrauensdienste",
+    "category": "identity",
+    "official_source": "https://digital-strategy.ec.europa.eu/en/policies/eu-trusted-lists",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "MICA": {
+    "title": "MiCA – Markets in Crypto-Assets",
+    "category": "crypto",
+    "official_source": "https://eur-lex.europa.eu/eli/reg/2023/1114/oj",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "PSD2": {
+    "title": "PSD2 – Zahlungsdienste",
+    "category": "payments",
+    "official_source": "https://eur-lex.europa.eu/eli/dir/2015/2366/oj",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "DSA": {
+    "title": "Digital Services Act",
+    "category": "platform",
+    "official_source": "https://digital-strategy.ec.europa.eu/en/faqs/digital-services-act-questions-and-answers",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "DMA": {
+    "title": "Digital Markets Act – benannte Gatekeeper",
+    "category": "gatekeeper",
+    "official_source": "https://eur-lex.europa.eu/eli/reg/2022/1925/oj",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "EU_FOI": {
+    "title": "Informationszugang EU-Institutionen – VO 1049/2001",
+    "category": "government",
+    "official_source": "https://commission.europa.eu/about/service-standards-and-principles/transparency/how-access-commission-documents_en",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "US_FOIA": {
+    "title": "US Freedom of Information Act – Behördenunterlagen",
+    "category": "government",
+    "official_source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "US_SUNSHINE": {
+    "title": "Government in the Sunshine Act – Sitzungen erfasster Behörden",
+    "category": "government",
+    "official_source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552b",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "US_GLBA": {
+    "title": "Gramm–Leach–Bliley Act – betroffene Finanzunternehmen",
+    "category": "finance",
+    "official_source": "https://www.ftc.gov/business-guidance/privacy-security/gramm-leach-bliley-act",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "US_FEDRAMP": {
+    "title": "FedRAMP – bestimmte Bundescloud-Beschaffungen",
+    "category": "government",
+    "official_source": "https://www.fedramp.gov/",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "BR_LGPD": {
+    "title": "Lei Geral de Proteção de Dados",
+    "category": "privacy",
+    "official_source": "https://www.gov.br/anpd/pt-br",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "SG_PDPA": {
+    "title": "Personal Data Protection Act",
+    "category": "privacy",
+    "official_source": "https://www.pdpc.gov.sg/",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "SG_MAS": {
+    "title": "MAS Financial Sector Technology Risk & Operational Resilience",
+    "category": "finance",
+    "official_source": "https://www.mas.gov.sg/regulation/operational-resilience",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "JP_APPI": {
+    "title": "Act on the Protection of Personal Information",
+    "category": "privacy",
+    "official_source": "https://www.ppc.go.jp/en/",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "IN_DPDP": {
+    "title": "Digital Personal Data Protection Act",
+    "category": "privacy",
+    "official_source": "https://www.meity.gov.in/",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "KR_PIPA": {
+    "title": "Personal Information Protection Act",
+    "category": "privacy",
+    "official_source": "https://www.pipc.go.kr/eng/",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "HK_PDPO": {
+    "title": "Personal Data (Privacy) Ordinance",
+    "category": "privacy",
+    "official_source": "https://www.pcpd.org.hk/",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "CH_FADP": {
+    "title": "Schweizer Datenschutzgesetz revDSG",
+    "category": "privacy",
+    "official_source": "https://www.edoeb.admin.ch/",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "CH_FINMA": {
+    "title": "FINMA – Sektorrecht und Aufsichtsanforderungen",
+    "category": "finance",
+    "official_source": "https://www.finma.ch/",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "EU_BASE": {
+    "title": "EU-Rechtsrahmen – konkreten Anwendungsbereich prüfen",
+    "category": "all",
+    "official_source": "https://eur-lex.europa.eu/",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "US_STATE_LAWS": {
+    "title": "US Privacy, Financial Services und Breach-Notification nach Bundesstaat",
+    "category": "privacy",
+    "official_source": "https://www.usa.gov/state-governments",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "IE_DATA_PROTECTION": {
+    "title": "IE DATA PROTECTION – zuständige nationale Vorschriften",
+    "category": "national",
+    "official_source": "https://www.dataprotection.ie/",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "IE_CBI": {
+    "title": "IE CBI – zuständige nationale Vorschriften",
+    "category": "national",
+    "official_source": "https://www.dataprotection.ie/",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "ES_LOPDGDD": {
+    "title": "ES LOPDGDD – zuständige nationale Vorschriften",
+    "category": "national",
+    "official_source": "https://www.aepd.es/",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "ES_FINANCE": {
+    "title": "ES FINANCE – zuständige nationale Vorschriften",
+    "category": "national",
+    "official_source": "https://www.aepd.es/",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "IT_PRIVACY": {
+    "title": "IT PRIVACY – zuständige nationale Vorschriften",
+    "category": "national",
+    "official_source": "https://www.garanteprivacy.it/",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "IT_FINANCE": {
+    "title": "IT FINANCE – zuständige nationale Vorschriften",
+    "category": "national",
+    "official_source": "https://www.garanteprivacy.it/",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "FR_PRIVACY": {
+    "title": "FR PRIVACY – zuständige nationale Vorschriften",
+    "category": "national",
+    "official_source": "https://www.cnil.fr/",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "FR_FINANCE": {
+    "title": "FR FINANCE – zuständige nationale Vorschriften",
+    "category": "national",
+    "official_source": "https://www.cnil.fr/",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "BE_PRIVACY": {
+    "title": "BE PRIVACY – zuständige nationale Vorschriften",
+    "category": "national",
+    "official_source": "https://www.autoriteprotectiondonnees.be/",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "BE_FINANCE": {
+    "title": "BE FINANCE – zuständige nationale Vorschriften",
+    "category": "national",
+    "official_source": "https://www.autoriteprotectiondonnees.be/",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "LU_PRIVACY": {
+    "title": "LU PRIVACY – zuständige nationale Vorschriften",
+    "category": "national",
+    "official_source": "https://cnpd.public.lu/",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "LU_FINANCE": {
+    "title": "LU FINANCE – zuständige nationale Vorschriften",
+    "category": "national",
+    "official_source": "https://cnpd.public.lu/",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "PT_PRIVACY": {
+    "title": "PT PRIVACY – zuständige nationale Vorschriften",
+    "category": "national",
+    "official_source": "https://www.cnpd.pt/",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "PT_FINANCE": {
+    "title": "PT FINANCE – zuständige nationale Vorschriften",
+    "category": "national",
+    "official_source": "https://www.cnpd.pt/",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "SE_PRIVACY": {
+    "title": "SE PRIVACY – zuständige nationale Vorschriften",
+    "category": "national",
+    "official_source": "https://www.imy.se/",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "SE_FINANCE": {
+    "title": "SE FINANCE – zuständige nationale Vorschriften",
+    "category": "national",
+    "official_source": "https://www.imy.se/",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "FI_PRIVACY": {
+    "title": "FI PRIVACY – zuständige nationale Vorschriften",
+    "category": "national",
+    "official_source": "https://tietosuoja.fi/en/home",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "FI_FINANCE": {
+    "title": "FI FINANCE – zuständige nationale Vorschriften",
+    "category": "national",
+    "official_source": "https://tietosuoja.fi/en/home",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "DK_PRIVACY": {
+    "title": "DK PRIVACY – zuständige nationale Vorschriften",
+    "category": "national",
+    "official_source": "https://www.datatilsynet.dk/",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "DK_FINANCE": {
+    "title": "DK FINANCE – zuständige nationale Vorschriften",
+    "category": "national",
+    "official_source": "https://www.datatilsynet.dk/",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "BDSG": {
+    "title": "BDSG – zuständige nationale Vorschriften",
+    "category": "national",
+    "official_source": "https://www.bfdi.bund.de/",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "BSI_KRITIS": {
+    "title": "BSI KRITIS – zuständige nationale Vorschriften",
+    "category": "national",
+    "official_source": "https://www.bfdi.bund.de/",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "BAFIN": {
+    "title": "BAFIN – zuständige nationale Vorschriften",
+    "category": "national",
+    "official_source": "https://www.bfdi.bund.de/",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "CH_CYBER": {
+    "title": "CH CYBER – zuständige nationale Vorschriften",
+    "category": "national",
+    "official_source": "https://www.edoeb.admin.ch/",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "US_PRIVACY_SECTOR": {
+    "title": "US PRIVACY SECTOR – zuständige nationale Vorschriften",
+    "category": "national",
+    "official_source": "https://uscode.house.gov/",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "BR_FINANCE": {
+    "title": "BR FINANCE – zuständige nationale Vorschriften",
+    "category": "national",
+    "official_source": "https://www.gov.br/anpd/pt-br",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "SG_CYBER": {
+    "title": "SG CYBER – zuständige nationale Vorschriften",
+    "category": "national",
+    "official_source": "https://www.pdpc.gov.sg/",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "JP_FINANCE": {
+    "title": "JP FINANCE – zuständige nationale Vorschriften",
+    "category": "national",
+    "official_source": "https://www.ppc.go.jp/en/",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "IN_FINANCE": {
+    "title": "IN FINANCE – zuständige nationale Vorschriften",
+    "category": "national",
+    "official_source": "https://www.meity.gov.in/",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "IN_CYBER": {
+    "title": "IN CYBER – zuständige nationale Vorschriften",
+    "category": "national",
+    "official_source": "https://www.meity.gov.in/",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "KR_FINANCE": {
+    "title": "KR FINANCE – zuständige nationale Vorschriften",
+    "category": "national",
+    "official_source": "https://www.pipc.go.kr/eng/",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  },
+  "HK_FINANCE": {
+    "title": "HK FINANCE – zuständige nationale Vorschriften",
+    "category": "national",
+    "official_source": "https://www.pcpd.org.hk/",
+    "default_status": "APPLICABILITY_REQUIRES_REVIEW"
+  }
+}
