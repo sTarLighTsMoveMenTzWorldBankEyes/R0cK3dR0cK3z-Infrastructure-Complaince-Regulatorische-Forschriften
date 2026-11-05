@@ -1,0 +1,216 @@
+{
+  "Alabama": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften."
+  },
+  "Alaska": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften."
+  },
+  "Arizona": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften."
+  },
+  "Arkansas": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften."
+  },
+  "California": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften.",
+    "known_examples": [
+      "CCPA/CPRA – CPPA",
+      "2026 CCPA cyber/audit/ADMT regulations where applicable"
+    ],
+    "official_sources": [
+      "https://cppa.ca.gov/regulations/ccpa_updates"
+    ]
+  },
+  "Colorado": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften. Insbesondere bundesstaatliche Verbraucherdatenschutzgesetze nach aktuellem Geltungsdatum prüfen."
+  },
+  "Connecticut": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften. Insbesondere bundesstaatliche Verbraucherdatenschutzgesetze nach aktuellem Geltungsdatum prüfen."
+  },
+  "Delaware": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften. Insbesondere bundesstaatliche Verbraucherdatenschutzgesetze nach aktuellem Geltungsdatum prüfen."
+  },
+  "Florida": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften."
+  },
+  "Georgia": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften."
+  },
+  "Hawaii": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften."
+  },
+  "Idaho": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften."
+  },
+  "Illinois": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften."
+  },
+  "Indiana": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften. Insbesondere bundesstaatliche Verbraucherdatenschutzgesetze nach aktuellem Geltungsdatum prüfen."
+  },
+  "Iowa": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften."
+  },
+  "Kansas": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften."
+  },
+  "Kentucky": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften."
+  },
+  "Louisiana": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften."
+  },
+  "Maine": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften."
+  },
+  "Maryland": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften. Insbesondere bundesstaatliche Verbraucherdatenschutzgesetze nach aktuellem Geltungsdatum prüfen."
+  },
+  "Massachusetts": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften."
+  },
+  "Michigan": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften."
+  },
+  "Minnesota": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften. Insbesondere bundesstaatliche Verbraucherdatenschutzgesetze nach aktuellem Geltungsdatum prüfen."
+  },
+  "Mississippi": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften."
+  },
+  "Missouri": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften."
+  },
+  "Montana": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften. Insbesondere bundesstaatliche Verbraucherdatenschutzgesetze nach aktuellem Geltungsdatum prüfen."
+  },
+  "Nebraska": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften."
+  },
+  "Nevada": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften."
+  },
+  "New Hampshire": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften. Insbesondere bundesstaatliche Verbraucherdatenschutzgesetze nach aktuellem Geltungsdatum prüfen."
+  },
+  "New Jersey": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften. Insbesondere bundesstaatliche Verbraucherdatenschutzgesetze nach aktuellem Geltungsdatum prüfen."
+  },
+  "New Mexico": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften."
+  },
+  "New York": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften.",
+    "known_examples": [
+      "NYDFS 23 NYCRR 500 (covered entities)",
+      "NY SHIELD Act"
+    ],
+    "official_sources": [
+      "https://www.dfs.ny.gov/industry_guidance/cybersecurity"
+    ]
+  },
+  "North Carolina": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften."
+  },
+  "North Dakota": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften."
+  },
+  "Ohio": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften."
+  },
+  "Oklahoma": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften."
+  },
+  "Oregon": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften. Insbesondere bundesstaatliche Verbraucherdatenschutzgesetze nach aktuellem Geltungsdatum prüfen."
+  },
+  "Pennsylvania": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften."
+  },
+  "Rhode Island": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften."
+  },
+  "South Carolina": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften."
+  },
+  "South Dakota": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften."
+  },
+  "Tennessee": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften. Insbesondere bundesstaatliche Verbraucherdatenschutzgesetze nach aktuellem Geltungsdatum prüfen."
+  },
+  "Texas": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften. Insbesondere bundesstaatliche Verbraucherdatenschutzgesetze nach aktuellem Geltungsdatum prüfen."
+  },
+  "Utah": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften."
+  },
+  "Vermont": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften."
+  },
+  "Virginia": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften. Insbesondere bundesstaatliche Verbraucherdatenschutzgesetze nach aktuellem Geltungsdatum prüfen."
+  },
+  "Washington": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften."
+  },
+  "West Virginia": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften."
+  },
+  "Wisconsin": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften."
+  },
+  "Wyoming": {
+    "status": "STATE_SPECIFIC_RESEARCH_REQUIRED",
+    "notes": "Prüfen: Datenschutz, Cybersecurity, Breach Notification, Finanzaufsicht, lokale KI-Vorschriften."
+  }
+}

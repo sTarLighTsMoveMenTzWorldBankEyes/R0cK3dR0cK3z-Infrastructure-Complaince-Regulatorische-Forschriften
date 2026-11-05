@@ -1,0 +1,146 @@
+[
+  {
+    "id": "G01",
+    "title": "Domainkontrolle",
+    "requirement": "DNS-TXT-Beweis nur nach expliziter Domain-Administrator-Autorisierung; Challenge kurzlebig",
+    "mode": "MUST"
+  },
+  {
+    "id": "G02",
+    "title": "Registrierungsidentität",
+    "requirement": "RDAP- und Registry-Daten sind Hinweise, kein abschließender Nachweis der juristischen Identität",
+    "mode": "MUST"
+  },
+  {
+    "id": "G03",
+    "title": "Organisationsprüfung",
+    "requirement": "Amtliches Register, LEI und/oder vLEI mit Gültigkeit und Quellenbezug prüfen",
+    "mode": "MUST"
+  },
+  {
+    "id": "G04",
+    "title": "Aufsichtszulassung",
+    "requirement": "Keine Erlaubnis ohne Nachweis der zuständigen Aufsicht und konkreten Tätigkeit",
+    "mode": "MUST"
+  },
+  {
+    "id": "G05",
+    "title": "Vertrauensanker",
+    "requirement": "Signaturen mit extern legitimierten Trust Anchors und gültigen Trust Chains prüfen",
+    "mode": "MUST"
+  },
+  {
+    "id": "G06",
+    "title": "Zertifikate",
+    "requirement": "TLS-PKI, eIDAS-qualifizierte Siegel und regulatorische Bescheide klar auseinanderhalten",
+    "mode": "MUST"
+  },
+  {
+    "id": "G07",
+    "title": "DNSSEC",
+    "requirement": "DNSSEC validieren, falls aktiviert; fehlende Absicherung nicht als positive Validierung ausgeben",
+    "mode": "MUST"
+  },
+  {
+    "id": "G08",
+    "title": "Zustimmung",
+    "requirement": "Kein Federation Onboarding ohne nachweisbare Zustimmung und unabhängige Berechtigungsprüfung",
+    "mode": "MUST"
+  },
+  {
+    "id": "G09",
+    "title": "Minimalrechte",
+    "requirement": "DNS-Provider-Tokens nur für bestimmte Zonen und TXT-Challenge-Einträge, keine breiten Rechte",
+    "mode": "MUST"
+  },
+  {
+    "id": "G10",
+    "title": "Geheimnisschutz",
+    "requirement": "Keine privaten Schlüssel, Zertifikats-Schlüsselpaare, Tokens oder Kontodaten in Logs/Chat/Telemetry",
+    "mode": "MUST"
+  },
+  {
+    "id": "G11",
+    "title": "Datenschutz",
+    "requirement": "Datenminimierung, Löschung, Zweckbindung, internationale Transferregeln",
+    "mode": "MUST"
+  },
+  {
+    "id": "G12",
+    "title": "Kein impliziter Zugriff",
+    "requirement": "Domainbeweis autorisiert weder API-Zugriff noch Finanztransaktionen oder Verwaltungszugang",
+    "mode": "MUST"
+  },
+  {
+    "id": "G13",
+    "title": "Kontinuierliche Überprüfung",
+    "requirement": "Nachweise auf Ablauf, Widerruf und Organisationsänderungen überwachen",
+    "mode": "MUST"
+  },
+  {
+    "id": "G14",
+    "title": "Fail Closed",
+    "requirement": "Bei Fehler/Unklarheit niemals positive Compliance- oder Zugangsentscheidung",
+    "mode": "MUST"
+  },
+  {
+    "id": "G15",
+    "title": "Transparenz-Trennung",
+    "requirement": "Public-/Restricted-Layer trennen; FOIA/Sunshine nicht als automatische Offenlegung behandeln",
+    "mode": "MUST"
+  },
+  {
+    "id": "G16",
+    "title": "Rechtsraum und Tätigkeit",
+    "requirement": "Anwendbarkeit nach Niederlassung, Kundenkreis, Rolle, Dienst und Datum bestimmen",
+    "mode": "MUST"
+  },
+  {
+    "id": "G17",
+    "title": "Menschliche Aufsicht",
+    "requirement": "Für rechtlich bedeutende/hochrisikorelevante Entscheidungen unabhängige Freigabe",
+    "mode": "MUST"
+  },
+  {
+    "id": "G18",
+    "title": "Lokalität",
+    "requirement": "Offline und lokale Datenhaltung als Standard; Netzabrufe nur separat autorisiert",
+    "mode": "MUST"
+  },
+  {
+    "id": "G19",
+    "title": "Supply Chain",
+    "requirement": "Programmidentität, reproduzierbare Builds, Abhängigkeiten, sandbox-unabhängige Prüfung",
+    "mode": "MUST"
+  },
+  {
+    "id": "G20",
+    "title": "Trennung öffentlicher Prüfung",
+    "requirement": "Fremde URLs dürfen passiv katalogisiert, aber nicht ungefragt eingeschrieben oder umgestellt werden",
+    "mode": "MUST"
+  },
+  {
+    "id": "G21",
+    "title": "Rechtliche Reichweite",
+    "requirement": "US Sunshine Act gilt nicht pauschal für private Unternehmen oder EU-Behörden",
+    "mode": "MUST"
+  },
+  {
+    "id": "G22",
+    "title": "Sperrung und Rezertifizierung",
+    "requirement": "Vertrauensstatus bei Entzug, DNS-Transfer oder neuen Prüfumständen zurücksetzen",
+    "mode": "MUST"
+  },
+  {
+    "id": "G23",
+    "title": "Ratenlimit und SSRF-Schutz",
+    "requirement": "Keine ungeprüften URL-Abrufe, Weiterleitungen oder private Netzressourcen scannen",
+    "mode": "MUST"
+  },
+  {
+    "id": "G24",
+    "title": "Abgrenzung zur CA",
+    "requirement": "Keine Behauptung offizieller Zertifikatsausstellung oder eIDAS-Qualifikation",
+    "mode": "MUST"
+  }
+]

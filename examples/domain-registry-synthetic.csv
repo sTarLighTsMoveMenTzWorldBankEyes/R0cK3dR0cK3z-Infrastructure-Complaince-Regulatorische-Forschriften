@@ -1,0 +1,8 @@
+URL,Kategorie,Prüfmodus
+europa.eu,EU-Institution,Offline
+gov.ie,Government,Offline
+nic.it,Domain-Registry,Offline
+nic.ch,Domain-Registry,Offline
+nato.int,Institutioneller Kontext,Offline
+example.org,Testdomain,Offline
+https://EXAMPLE.ORG:443/#fragment,Duplikat,Offline
